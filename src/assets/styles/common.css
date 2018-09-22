@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.link{
+  color: #66b1ff;
+}
+.link:hover,.link:active{
+  color: #409eff;
+}
+.flex{
+  display: flex;
+}
+.text-align-right{
+    text-align: right;
+}
+.text-align-left{
+    text-align: left;
+}
+.text-align-center{
+    text-align: center;
+}
+.margin-4x{
+  margin-bottom: 20px;
+}
